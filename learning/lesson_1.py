@@ -19,3 +19,7 @@ print(cokolwiek[-2])
 # anything = "Anything"
 
 # print(anything)
+
+# TODO potęgowanie w Pythonie (power)
+# TODO pierwiastkowanie (square root, cube root)
+# TODO pobieranie bieżącej daty, czasu (how to get current date in Python)
