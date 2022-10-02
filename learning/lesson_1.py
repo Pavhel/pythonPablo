@@ -1,3 +1,6 @@
+import datetime
+
+
 # function to reverse string starting from last index (-1)
 def reverse(s):
     return s[::-1]
@@ -23,3 +26,9 @@ print(cokolwiek[-2])
 # TODO potęgowanie w Pythonie (power)
 # TODO pierwiastkowanie (square root, cube root)
 # TODO pobieranie bieżącej daty, czasu (how to get current date in Python)
+
+
+x = datetime.datetime.now()
+
+print(x.year)
+print(x.strftime("%A"))
